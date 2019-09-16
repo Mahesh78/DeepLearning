@@ -6,4 +6,4 @@ The folder contains series of notebooks for __*Deep Leaning*__ that start with c
   
   3) __[NLP_Deduplicate_SimHash_Word2Vec](https://github.com/Mahesh78/DeepLearning/blob/master/DeepLearing1/3_NLP_Deduplicate_SimHash_Word2Vec.md)__: This notebook deduplicated the feeds from JSON using both __SimHash__ and __Word2Vec__ to return deduped titles with better accuracy.
   
-  4) __[SentimentAnalysis_NLTK_NaiveBayes](https://github.com/Mahesh78/DeepLearning/blob/master/DeepLearing1/4_SentimentAnalysis_NLTK_NaiveBayes.md)__: Uses __NLTK Sentiment Intensity Analyzer__ to assess the sentiment of each of the 10,000 titles and appends thye sentiment scores to the previously created JSON.
+  4) __[SentimentAnalysis_NLTK_NaiveBayes](https://github.com/Mahesh78/DeepLearning/blob/master/DeepLearing1/4_SentimentAnalysis_NLTK_NaiveBayes.md)__: Uses __NLTK Sentiment Intensity Analyzer__ to assess the sentiment of each of the 10,000 titles and appends the sentiment scores to the previously created JSON.
